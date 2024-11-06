@@ -1,4 +1,4 @@
-## Github Contribution
+## GitHub Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nacosvel/.github/output/github-contribution-grid-snake-dark.svg">
