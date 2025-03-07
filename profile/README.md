@@ -9,7 +9,7 @@
 ## Documentation
 
 - [Preview](https://nacosvel.github.io/docs/)
-- [Documentation](https://github.com/nacosvel/docs)
+- [nacosvel/docs](https://github.com/nacosvel/docs)
 
 ## Packages
 
